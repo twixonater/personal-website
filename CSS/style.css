@@ -1,9 +1,49 @@
+
 body {
-	font-color:#5c8cb0;
+	background-color: black;
+	font-family: Helvetica, sans-serif;
+	color: #E0FFFF;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #ffffff;
+}
+
+div {
+	padding: 50px;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #ffffff;
+}
+
+div.head {
+	background-color: #0C105E;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #ffffff;
+	margin: 10px;
+	padding: 10px;
+}
+
+div.gallery {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ffffff;
+	margin: 10px;
+	padding: 10px;
 }
 
 h1 {
+	color: #2196f3;
 	font-size: 30px;
 }
 
-h2
+h2 {
+	font-size: 20px;
+}
+p {
+	color: #ffffff;
+	font-size: 16px;
+}
+a {
+	color: #ffffff;
+}
